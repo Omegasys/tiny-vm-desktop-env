@@ -1,0 +1,8 @@
+{
+    "theme": "light",
+    "vm_startup": true,
+    "default_vm_name": "TinyVM",
+    "memory_size": 2,
+    "cpu_count": 1,
+    "disk_size": 10
+}
